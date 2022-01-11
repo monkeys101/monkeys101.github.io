@@ -3,6 +3,10 @@ body {
   margin: 0;
 }
 
+main {
+  margin-left: 10px;
+}
+
 ul.navbar {
   list-style-type: none;
   margin: 0;
