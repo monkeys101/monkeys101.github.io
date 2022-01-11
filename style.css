@@ -21,6 +21,6 @@ li.navitem a {
   text-decoration: none;
 }
 
-li.navitem a:hover:not(.active) {
+li.navitem a:hover {
   background-color: #111;
 }
